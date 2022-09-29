@@ -28,7 +28,7 @@ Note: The model is not deterministic. All the experimental results provided in t
  
  
 ## Reference
- If you make use of this code or the GroupIM algorithm in your work, please cite the following paper:
+ If you make use of this code or the INDIG algorithm in your work, please cite the following paper:
 
 ```
 @article{lee2022bayesianindig,
